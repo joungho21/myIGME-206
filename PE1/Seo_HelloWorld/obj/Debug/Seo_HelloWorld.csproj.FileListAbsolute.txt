@@ -1,0 +1,7 @@
+C:\Users\jounghoseo\Desktop\IGME 201\Seo_HelloWorld\bin\Debug\Seo_HelloWorld.exe.config
+C:\Users\jounghoseo\Desktop\IGME 201\Seo_HelloWorld\bin\Debug\Seo_HelloWorld.exe
+C:\Users\jounghoseo\Desktop\IGME 201\Seo_HelloWorld\bin\Debug\Seo_HelloWorld.pdb
+C:\Users\jounghoseo\Desktop\IGME 201\Seo_HelloWorld\obj\Debug\Seo_HelloWorld.csprojAssemblyReference.cache
+C:\Users\jounghoseo\Desktop\IGME 201\Seo_HelloWorld\obj\Debug\Seo_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\jounghoseo\Desktop\IGME 201\Seo_HelloWorld\obj\Debug\Seo_HelloWorld.exe
+C:\Users\jounghoseo\Desktop\IGME 201\Seo_HelloWorld\obj\Debug\Seo_HelloWorld.pdb
