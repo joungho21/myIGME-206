@@ -1,0 +1,7 @@
+C:\Users\jounghoseo\Desktop\myIGME-206\PE4\PE4Question2\bin\Debug\PE4Question2.exe.config
+C:\Users\jounghoseo\Desktop\myIGME-206\PE4\PE4Question2\bin\Debug\PE4Question2.exe
+C:\Users\jounghoseo\Desktop\myIGME-206\PE4\PE4Question2\bin\Debug\PE4Question2.pdb
+C:\Users\jounghoseo\Desktop\myIGME-206\PE4\PE4Question2\obj\Debug\PE4Question2.csprojAssemblyReference.cache
+C:\Users\jounghoseo\Desktop\myIGME-206\PE4\PE4Question2\obj\Debug\PE4Question2.csproj.CoreCompileInputs.cache
+C:\Users\jounghoseo\Desktop\myIGME-206\PE4\PE4Question2\obj\Debug\PE4Question2.exe
+C:\Users\jounghoseo\Desktop\myIGME-206\PE4\PE4Question2\obj\Debug\PE4Question2.pdb
