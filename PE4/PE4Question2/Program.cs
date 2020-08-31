@@ -16,7 +16,7 @@ namespace PE4Question2
             bool loop = true;
             int num1;
             int num2;
-            while (loop)
+            while (loop) //Loop to continue if user inputted number greater than 10
             {
                 Console.WriteLine("Please enter an integer less than 10:");
                 num1 = Convert.ToInt32(Console.ReadLine()); //Parsing string input to int
