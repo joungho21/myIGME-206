@@ -1,0 +1,7 @@
+C:\Users\jounghoseo\Desktop\myIGME-206\PE6\PE6Parsing\bin\Debug\PE6Parsing.exe.config
+C:\Users\jounghoseo\Desktop\myIGME-206\PE6\PE6Parsing\bin\Debug\PE6Parsing.exe
+C:\Users\jounghoseo\Desktop\myIGME-206\PE6\PE6Parsing\bin\Debug\PE6Parsing.pdb
+C:\Users\jounghoseo\Desktop\myIGME-206\PE6\PE6Parsing\obj\Debug\PE6Parsing.csprojAssemblyReference.cache
+C:\Users\jounghoseo\Desktop\myIGME-206\PE6\PE6Parsing\obj\Debug\PE6Parsing.csproj.CoreCompileInputs.cache
+C:\Users\jounghoseo\Desktop\myIGME-206\PE6\PE6Parsing\obj\Debug\PE6Parsing.exe
+C:\Users\jounghoseo\Desktop\myIGME-206\PE6\PE6Parsing\obj\Debug\PE6Parsing.pdb
