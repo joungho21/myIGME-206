@@ -1,0 +1,7 @@
+C:\Users\jounghoseo\Desktop\myIGME-206\PE7\MadLibs\bin\Debug\MadLibs.exe.config
+C:\Users\jounghoseo\Desktop\myIGME-206\PE7\MadLibs\bin\Debug\MadLibs.exe
+C:\Users\jounghoseo\Desktop\myIGME-206\PE7\MadLibs\bin\Debug\MadLibs.pdb
+C:\Users\jounghoseo\Desktop\myIGME-206\PE7\MadLibs\obj\Debug\MadLibs.csprojAssemblyReference.cache
+C:\Users\jounghoseo\Desktop\myIGME-206\PE7\MadLibs\obj\Debug\MadLibs.csproj.CoreCompileInputs.cache
+C:\Users\jounghoseo\Desktop\myIGME-206\PE7\MadLibs\obj\Debug\MadLibs.exe
+C:\Users\jounghoseo\Desktop\myIGME-206\PE7\MadLibs\obj\Debug\MadLibs.pdb
