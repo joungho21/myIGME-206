@@ -1,0 +1,7 @@
+C:\Users\jounghoseo\Desktop\myIGME-206\PE8\PE8Q5\bin\Debug\PE8Q5.exe.config
+C:\Users\jounghoseo\Desktop\myIGME-206\PE8\PE8Q5\bin\Debug\PE8Q5.exe
+C:\Users\jounghoseo\Desktop\myIGME-206\PE8\PE8Q5\bin\Debug\PE8Q5.pdb
+C:\Users\jounghoseo\Desktop\myIGME-206\PE8\PE8Q5\obj\Debug\PE8Q5.csprojAssemblyReference.cache
+C:\Users\jounghoseo\Desktop\myIGME-206\PE8\PE8Q5\obj\Debug\PE8Q5.csproj.CoreCompileInputs.cache
+C:\Users\jounghoseo\Desktop\myIGME-206\PE8\PE8Q5\obj\Debug\PE8Q5.exe
+C:\Users\jounghoseo\Desktop\myIGME-206\PE8\PE8Q5\obj\Debug\PE8Q5.pdb
