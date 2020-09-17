@@ -1,0 +1,7 @@
+C:\Users\jounghoseo\Desktop\myIGME-206\UnitOne\Q3\bin\Debug\Q3.exe.config
+C:\Users\jounghoseo\Desktop\myIGME-206\UnitOne\Q3\bin\Debug\Q3.exe
+C:\Users\jounghoseo\Desktop\myIGME-206\UnitOne\Q3\bin\Debug\Q3.pdb
+C:\Users\jounghoseo\Desktop\myIGME-206\UnitOne\Q3\obj\Debug\Q3.csproj.CoreCompileInputs.cache
+C:\Users\jounghoseo\Desktop\myIGME-206\UnitOne\Q3\obj\Debug\Q3.exe
+C:\Users\jounghoseo\Desktop\myIGME-206\UnitOne\Q3\obj\Debug\Q3.pdb
+C:\Users\jounghoseo\Desktop\myIGME-206\UnitOne\Q3\obj\Debug\Q3.csprojAssemblyReference.cache

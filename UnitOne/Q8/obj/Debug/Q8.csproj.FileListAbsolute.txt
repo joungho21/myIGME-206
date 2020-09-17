@@ -1,0 +1,6 @@
+C:\Users\jounghoseo\Desktop\myIGME-206\UnitOne\Q8\bin\Debug\Q8.exe.config
+C:\Users\jounghoseo\Desktop\myIGME-206\UnitOne\Q8\bin\Debug\Q8.exe
+C:\Users\jounghoseo\Desktop\myIGME-206\UnitOne\Q8\bin\Debug\Q8.pdb
+C:\Users\jounghoseo\Desktop\myIGME-206\UnitOne\Q8\obj\Debug\Q8.csproj.CoreCompileInputs.cache
+C:\Users\jounghoseo\Desktop\myIGME-206\UnitOne\Q8\obj\Debug\Q8.exe
+C:\Users\jounghoseo\Desktop\myIGME-206\UnitOne\Q8\obj\Debug\Q8.pdb

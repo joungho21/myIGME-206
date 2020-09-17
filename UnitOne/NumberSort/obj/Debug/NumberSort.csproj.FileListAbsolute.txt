@@ -1,0 +1,7 @@
+C:\Users\jounghoseo\Desktop\myIGME-206\UnitOne\NumberSort\bin\Debug\NumberSort.exe.config
+C:\Users\jounghoseo\Desktop\myIGME-206\UnitOne\NumberSort\bin\Debug\NumberSort.exe
+C:\Users\jounghoseo\Desktop\myIGME-206\UnitOne\NumberSort\bin\Debug\NumberSort.pdb
+C:\Users\jounghoseo\Desktop\myIGME-206\UnitOne\NumberSort\obj\Debug\NumberSort.csprojAssemblyReference.cache
+C:\Users\jounghoseo\Desktop\myIGME-206\UnitOne\NumberSort\obj\Debug\NumberSort.csproj.CoreCompileInputs.cache
+C:\Users\jounghoseo\Desktop\myIGME-206\UnitOne\NumberSort\obj\Debug\NumberSort.exe
+C:\Users\jounghoseo\Desktop\myIGME-206\UnitOne\NumberSort\obj\Debug\NumberSort.pdb
