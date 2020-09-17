@@ -1,0 +1,7 @@
+C:\Users\jounghoseo\Desktop\myIGME-206\UnitOne\MathQuiz\bin\Debug\MathQuiz.exe.config
+C:\Users\jounghoseo\Desktop\myIGME-206\UnitOne\MathQuiz\bin\Debug\MathQuiz.exe
+C:\Users\jounghoseo\Desktop\myIGME-206\UnitOne\MathQuiz\bin\Debug\MathQuiz.pdb
+C:\Users\jounghoseo\Desktop\myIGME-206\UnitOne\MathQuiz\obj\Debug\MathQuiz.csprojAssemblyReference.cache
+C:\Users\jounghoseo\Desktop\myIGME-206\UnitOne\MathQuiz\obj\Debug\MathQuiz.csproj.CoreCompileInputs.cache
+C:\Users\jounghoseo\Desktop\myIGME-206\UnitOne\MathQuiz\obj\Debug\MathQuiz.exe
+C:\Users\jounghoseo\Desktop\myIGME-206\UnitOne\MathQuiz\obj\Debug\MathQuiz.pdb
